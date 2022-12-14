@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pete {
+    z-index: 1;
+    position: absolute;
+    left: 281px;
+    top: 870px;
+    width: 208px;
+    height: 245px;
+}
+
+.tuco {
+    position: absolute;
+    left: 456px;
+    top: 62px;
+}
+
+.chicken {
+	z-index: 1;
+	position: absolute;
+	left: 780px;
+	top: 863px;
+}
+
+.whatt {
+	z-index: 1;
+	font-size: 30px;
+	position: absolute;
+	left: 57px;
+	top: 605px;
+	width: 657px;
+	color: white;
+}
+
+.yes{
+	text-decoration: none;
+	color: red;
+	z-index: 1;
+	position: absolute;
+	left: 813px;
+	top: 1159px;
+	width: 174px;
+	height: 62px;
+}
+
+.bye{
+	text-decoration: none;
+	color: pink;
+	z-index: 1;
+	position: absolute;
+	left: 371px;
+	top: 1154px;
+
+}
+
+.woo {
+	position: absolute;
+	z-index: 1;
+	left: 87px;
+	top: 167px;
+}
+
+.chik {
+	position: absolute;
+	z-index: 1;
+	
+	left: 593px;
+	top: 401px;
+}
+.won{
+	position: absolute;
+	color: navy;
+	left: 303px;
+	top: 61px;
+	
+}
+.home{
+	text-decoration: none;
+	position: absolute;
+	left: 594px;
+	top: 340px;
+	font-size: 30px;
+}
+
+body {
+	background-color: #c9e6d4;
+}
+
+.plink {
+    text-decoration: none;
+    color: deeppink;
+    font-size: 30px;
+    position: absolute;
+    left: 154px;
+    top: 574px;
+}
+.clink {
+    text-decoration: none;
+    color: deeppink;
+    font-size: 30px;
+    position: absolute;
+    left: 505px;
+    top: 551px;
+}
+.rlink {
+    text-decoration: none;
+    color: deeppink;
+    font-size: 30px;
+    position: absolute;
+    left: 790px;
+    top: 539px;
+}

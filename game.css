@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+.win {
+	text-align: center;
+	color:#7C1A7B;
+}
+
+.home{
+	align-content: center;
+	text-decoration: none;
+	font-size: 20px;
+	color: #1F6592;
+	
+}
+
+.rwin {
+    position: absolute;
+    background: #FFF89A;
+    color: #01555B;
+	font-size: 60px;
+    left: 272px;
+    top: 45px;
+    width: 640px;
+    height: 96px;
+}
+
+.again {
+	text-decoration: none;
+    position: absolute;
+    background: #FFF89A;
+    color: #01555B;
+    font-size: 40px;
+    left: 506px;
+    top: 436px;
+}

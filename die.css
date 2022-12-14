@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background: black;
+}
+
+.run {
+	color: red;
+	position: absolute;
+	font-size: 50px;
+	text-align: center;
+}
+
+.try {
+    color: red;
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    left: 564px;
+    top: 647px;
+}
